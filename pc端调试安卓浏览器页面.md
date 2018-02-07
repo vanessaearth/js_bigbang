@@ -6,4 +6,5 @@
 ### 四、打开电脑的chrome浏览器chrome://inspect;
 或者-F12-右侧的三个点-more tools-remote devices
 如果有手机连接成功，会显示手机型号，在open按钮前输入要同步的网址回车，然后点inspect，有时候会出现一直转或者空白页，那么就需要先翻墙，可以下载个蓝灯，就好了
+
 参考网址：http://www.siyuweb.com/tool/2557.html
